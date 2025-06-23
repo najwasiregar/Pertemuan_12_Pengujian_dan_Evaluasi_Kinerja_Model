@@ -1,0 +1,581 @@
+ID Variant;category;name;Brand Name;Basic - Price;In Stock;Track Stock;Track Alert;Track Cost;Cost Amount
+97069882;tembakau mole;madu gold;Unbranded;8000;1;Yes;Yes;Yes;5000
+97069889;tembakau mole;madu prima;Unbranded;13000;1;Yes;Yes;Yes;8600
+97069893;tembakau mole;madu silver;Unbranded;13000;1;Yes;Yes;Yes;8600
+97071033;tembakau mole;gunting kuning kecil;Unbranded;8000;10;Yes;Yes;Yes;5212
+97254100;rokok sampoerna;sampoerna mild 12;Unbranded;25000;4;Yes;Yes;Yes;23828
+97254103;rokok sampoerna;sampoerna mild 16;Unbranded;32500;10;Yes;Yes;Yes;31164
+97254152;tembakau mole;guntur sidmadu pink;Unbranded;8000;-1;Yes;Yes;Yes;4000
+97254163;tembakau mole;arumanis;Unbranded;12000;5;Yes;Yes;Yes;8600
+97254187;tembakau mole;gunting gold sedang;Unbranded;12000;-5;Yes;Yes;Yes;8600
+97254188;tembakau mole;gunting biru besar;Unbranded;15000;0;Yes;Yes;Yes;12000
+97254189;tembakau mole;manalagih;Unbranded;13000;3;Yes;Yes;Yes;10000
+97254190;tembakau mole;Rmild;Unbranded;13000;8;Yes;Yes;Yes;9248
+97254192;tembakau mole;AA hijau;Unbranded;7000;1;Yes;Yes;Yes;4000
+97254193;tembakau mole;AA merah;Unbranded;7000;-1;Yes;Yes;Yes;4000
+97254194;tembakau mole;marleboro hitam hijau;Unbranded;7000;1;Yes;Yes;Yes;3756
+97254195;tembakau mole;marleboro merah putih;Unbranded;7000;16;Yes;Yes;Yes;3750
+97254196;tembakau mole;kias mole biru;Unbranded;7000;16;Yes;Yes;Yes;3750
+97254198;tembakau mole;kias mole putih;Unbranded;7000;10;Yes;Yes;Yes;3900
+97254204;tembakau mole;class mole biru;Unbranded;7000;4;Yes;Yes;Yes;4000
+97254205;tembakau mole;class mole bold;Unbranded;7000;31;Yes;Yes;Yes;3944
+97254207;tembakau mole;surya pertiwi;Unbranded;7000;-2;Yes;Yes;Yes;5000
+97254208;tembakau mole;mangga manis;Unbranded;7000;0;Yes;Yes;Yes;9000
+97254209;tembakau mole;rasio medium;Unbranded;8000;35;Yes;Yes;Yes;5288
+97254211;tembakau mole;cap nona merah kecil;Unbranded;7000;-1;Yes;Yes;Yes;4600
+97254213;tembakau mole;cap nona hitam kecil;Unbranded;7000;16;Yes;Yes;Yes;4800
+97254215;tembakau mole;class berry;Unbranded;6500;-6;Yes;Yes;Yes;3250
+97254216;tembakau mole;black honay;Unbranded;7000;1;Yes;Yes;Yes;4000
+97254217;tembakau mole;virginia 235;Unbranded;6500;3;Yes;Yes;Yes;4000
+97254223;tembakau original;gayo hijau;Unbranded;11000;0;No;No;Yes;5125
+97254224;tembakau original;gayo hijau;Unbranded;21000;0;No;No;Yes;10250
+97254225;tembakau original;gayo hijau;Unbranded;40000;0;No;No;Yes;20500
+97254229;tembakau original;kemloko;Unbranded;7000;0;No;No;Yes;3150
+97254230;tembakau original;kemloko;Unbranded;13000;0;No;No;Yes;6300
+97254231;tembakau original;kemloko;Unbranded;25000;0;No;No;Yes;12600
+97254234;tembakau original;kayumas;Unbranded;9000;0;No;No;Yes;3750
+97254235;tembakau original;kayumas;Unbranded;16000;0;No;No;Yes;7500
+97254236;tembakau original;kayumas;Unbranded;30000;0;No;No;Yes;15000
+97254237;tembakau original;lamsi;Unbranded;10000;0;No;No;Yes;4250
+97254238;tembakau original;lamsi;Unbranded;18000;0;No;No;Yes;8500
+97254239;tembakau original;lamsi;Unbranded;35000;0;No;No;Yes;17000
+97254240;tembakau original;gading beringin;Unbranded;9000;0;No;No;Yes;4000
+97254241;tembakau original;gading beringin;Unbranded;16000;0;No;No;Yes;8000
+97254242;tembakau original;gading beringin;Unbranded;30000;0;No;No;Yes;16000
+97254250;tembakau original;boyolali alus;Unbranded;7000;0;No;No;Yes;2250
+97254251;tembakau original;boyolali alus;Unbranded;13000;0;No;No;Yes;4500
+97254252;tembakau original;boyolali alus;Unbranded;25000;0;No;No;Yes;9000
+97254256;tembakau original;cigasti;Unbranded;6000;0;No;No;Yes;3000
+97254257;tembakau original;cigasti;Unbranded;11000;0;No;No;Yes;6000
+97254258;tembakau original;cigasti;Unbranded;20000;0;No;No;Yes;12000
+97254262;tembakau original;kasturi super;Unbranded;9000;0;No;No;Yes;3875
+97254263;tembakau original;kasturi super;Unbranded;16000;0;No;No;Yes;7750
+97254264;tembakau original;kasturi super;Unbranded;30000;0;No;No;Yes;15500
+97254268;tembakau original;kasturi;Unbranded;8000;0;No;No;Yes;3250
+97254269;tembakau original;kasturi;Unbranded;15000;0;No;No;Yes;6500
+97254270;tembakau original;kasturi;Unbranded;29000;0;No;No;Yes;13000
+97254276;tembakau original;tambeng;Unbranded;7000;0;No;No;Yes;3000
+97254277;tembakau original;tambeng;Unbranded;13000;0;No;No;Yes;6000
+97254278;tembakau original;tambeng;Unbranded;25000;0;No;No;Yes;12000
+97254297;cengkeh;cengkeh menjangan;Unbranded;1500;150;Yes;Yes;Yes;1000
+97254298;cengkeh;cengkeh pak ayem;Unbranded;1500;1;Yes;Yes;Yes;1000
+97254300;cengkeh;cengkeh kambing;Unbranded;1000;80;Yes;Yes;Yes;776
+97254304;cengkeh;cengkeh klinting;Unbranded;1500;208;Yes;Yes;Yes;950
+97254307;cengkeh;cengkeh anak lanang;Unbranded;5000;3;Yes;Yes;Yes;3500
+97254308;cengkeh;cengkeh tugu;Unbranded;1000;152;Yes;Yes;Yes;800
+97327556;tembakau rokok;tembakau surya;Unbranded;6500;0;No;No;Yes;3100
+97327557;tembakau rokok;tembakau surya;Unbranded;12000;0;No;No;Yes;6200
+97332935;tembakau rokok;tembakau surya;Unbranded;55000;0;No;No;Yes;31000
+97333458;tembakau taru martani;violin;Unbranded;17000;222;Yes;Yes;Yes;14575
+97333495;tembakau taru martani;virgin apel;Unbranded;22000;23;Yes;Yes;Yes;19500
+97333514;tembakau taru martani;virgin vanilla;Unbranded;22000;17;Yes;Yes;Yes;18300
+97333530;tembakau taru martani;virgin coffe;Unbranded;22000;18;Yes;Yes;Yes;18113
+97333569;tembakau taru martani;rolling 18;Unbranded;8000;-184;Yes;Yes;Yes;6000
+97333586;tembakau taru martani;royal bourbon;Unbranded;20000;36;Yes;Yes;Yes;17619
+97334342;kertas papir;papir bufallo merah;Unbranded;1000;0;No;No;Yes;350
+97334343;kertas papir;papir bufallo merah;Unbranded;2000;0;No;No;Yes;1050
+97334473;kertas papir;papir bufallo kuning;Unbranded;1000;0;No;No;Yes;350
+97334474;kertas papir;papir bufallo kuning;Unbranded;2000;0;No;No;Yes;1050
+97334485;kertas papir;papir narayana;Unbranded;500;368;Yes;Yes;Yes;330
+97334488;kertas papir;papir djisamu;Unbranded;500;990;Yes;Yes;Yes;330
+97334532;kertas papir;papir singapur;Unbranded;500;132;Yes;Yes;Yes;347
+97334598;kertas papir;papir htl hitam;Unbranded;3000;2;Yes;Yes;Yes;2100
+97334609;kertas papir;papir htl coklat;Unbranded;3000;14;Yes;Yes;Yes;2100
+97334645;kertas papir;papir royo biru;Unbranded;4000;106;Yes;Yes;Yes;2700
+97334667;kertas papir;papir mascote;Unbranded;8000;30;Yes;Yes;Yes;6000
+97342992;rokok gudang garam;surya 12;Unbranded;26000;13;Yes;Yes;Yes;24191
+97342998;rokok gudang garam;surya 16;Unbranded;34000;3;Yes;Yes;Yes;32144
+97343015;rokok gudang garam;signature;Unbranded;25000;13;Yes;Yes;Yes;23092
+97343028;rokok gudang garam;signature mild;Unbranded;31500;0;Yes;Yes;Yes;29000
+97343054;rokok gudang garam;surya pro merah;Unbranded;31000;2;Yes;Yes;Yes;28953
+97343057;rokok gudang garam;surya pro putih;Unbranded;31000;1;Yes;Yes;Yes;27162
+97343106;rokok gudang garam;gudang garam merah;Unbranded;16000;4;Yes;Yes;Yes;14467
+97343122;rokok gudang garam;gudang garam djaya;Unbranded;15000;5;Yes;Yes;Yes;13441
+97343134;rokok gudang garam;gudang garam patra;Unbranded;14000;5;Yes;Yes;Yes;12770
+97343163;rokok lodjie;lodjie bold;Unbranded;18500;0;Yes;Yes;Yes;17500
+97343176;rokok lodjie;lodjie premio 16;Unbranded;10500;15;Yes;Yes;Yes;9500
+97343215;rokok lodjie;lodjie premio mentol;Unbranded;8500;3;Yes;Yes;Yes;7200
+97343221;rokok lodjie;lodjie ijo;Unbranded;8000;11;Yes;Yes;Yes;6905
+97343259;rokok lodjie;lodjie istimewa;Unbranded;7500;4;Yes;Yes;Yes;6500
+97343438;rokok lodjie;lodjie mld;Unbranded;19500;-2;Yes;Yes;Yes;17500
+97343447;rokok lodjie;lodjie mld mentol;Unbranded;19500;2;Yes;Yes;Yes;18000
+97343528;rokok sampoerna;sampoerna ultramild 16;Unbranded;23500;0;Yes;Yes;Yes;22500
+97343541;rokok sampoerna;sampoerna ultramild 12;Unbranded;17500;0;Yes;Yes;Yes;16400
+97343550;rokok sampoerna;sampoerna mild menthol brust;Unbranded;33500;1;Yes;Yes;Yes;31552
+97351135;rokok sampoerna;sampoerna splash tropical 16;Unbranded;29000;2;Yes;Yes;Yes;27344
+97351163;rokok sampoerna;sampoerna kretek;Unbranded;15000;20;Yes;Yes;Yes;13606
+97352434;alat linting;alat linting kecil 3b;Unbranded;7000;67;Yes;Yes;Yes;2701
+97352446;alat linting;alat linting slorok 3b;Unbranded;25000;3;Yes;Yes;Yes;13000
+97352457;alat linting;lem kecil;Unbranded;2500;130;Yes;Yes;Yes;1000
+97352575;rokok marlboro;marlboro filter black 20;Unbranded;38000;1;Yes;Yes;Yes;36262
+97352607;rokok marlboro;marlboro filter black 16;Unbranded;30000;3;Yes;No;Yes;28450
+97352613;rokok marlboro;marlboro filter black 12;Unbranded;23000;3;Yes;Yes;Yes;21502
+97352623;rokok djarum;djarum super 12;Unbranded;25000;12;Yes;Yes;Yes;22830
+97352628;rokok djarum;djarum super 16;Unbranded;33000;2;Yes;No;Yes;30738
+97352648;rokok djarum;djarum coklat;Unbranded;15000;3;Yes;Yes;Yes;14279
+97352657;rokok djarum;djarum coklat extra;Unbranded;15500;5;Yes;Yes;Yes;13474
+97352692;rokok djarum;djarum 76 12;Unbranded;16000;8;Yes;Yes;Yes;14264
+97352723;rokok djarum;djarum 76 16;Unbranded;20000;2;Yes;Yes;Yes;18904
+97352735;rokok djarum;djarum black;Unbranded;32000;3;Yes;Yes;Yes;30668
+97352745;rokok djarum;djarum black cappucino;Unbranded;32000;3;Yes;Yes;Yes;30219
+97352766;rokok djarum;djarum super wave;Unbranded;16000;0;Yes;No;Yes;15000
+97354234;tembakau mole;mariboro ice mentol;Unbranded;8000;7;Yes;Yes;Yes;4300
+97354240;tembakau mole;mariboro berry mint;Unbranded;8000;14;Yes;Yes;Yes;4308
+97555426;rokok herbal;st raos paling eco spesial oxy;Unbranded;42000;0;Yes;No;Yes;38000
+97555643;rokok herbal;st getszemani;Unbranded;35000;0;Yes;Yes;Yes;32208
+97555712;rokok herbal;st alastu caffetin;Unbranded;37000;1;Yes;Yes;Yes;34000
+97556213;rokok herbal;st alastu blokosutho;Unbranded;29000;3;Yes;Yes;Yes;26375
+97556244;rokok herbal;st merah putih;Unbranded;24000;6;Yes;Yes;Yes;21497
+97556252;rokok herbal;st raos ngeten mawon;Unbranded;20000;0;Yes;Yes;Yes;17500
+97556297;rokok herbal;st raos ngeten purun oxy;Unbranded;16000;6;Yes;Yes;Yes;13521
+97556415;rokok herbal;st matur suwun;Unbranded;12000;-3;Yes;Yes;Yes;10050
+97556836;rokok djisamsoe;djisamsoe super premium;Unbranded;21000;2;Yes;Yes;Yes;19305
+97556852;rokok djisamsoe;djisamsoe 12;Unbranded;20000;4;Yes;Yes;Yes;18205
+97556903;rokok djisamsoe;magnum mild;Unbranded;29000;4;Yes;Yes;Yes;22825
+97556915;rokok djisamsoe;magnum filter;Unbranded;24500;0;Yes;Yes;Yes;22800
+97557123;rokok mix ;esse change applemint;Unbranded;34000;-1;Yes;Yes;Yes;30233
+97557975;rokok mix ;esse berry pop;Unbranded;31000;5;Yes;Yes;Yes;29296
+97557999;rokok mix ;camel white;Unbranded;27000;-1;Yes;Yes;Yes;24911
+97558012;rokok mix ;camel yellow;Unbranded;28000;2;Yes;Yes;Yes;25917
+97558798;rokok mix ;LA lights;Unbranded;32000;2;Yes;Yes;Yes;28000
+97559097;rokok mix ;LA mentol;Unbranded;32000;2;Yes;Yes;Yes;24547
+97559161;rokok mix ;LA ice;Unbranded;32000;2;Yes;Yes;Yes;29778
+97559290;rokok mix ;red black;Unbranded;22000;2;Yes;Yes;Yes;19319
+97559504;rokok mix ;red black menthol;Unbranded;22000;9;Yes;Yes;Yes;20564
+97559555;rokok mix ;red mild;Unbranded;22000;5;Yes;Yes;Yes;18817
+97559568;rokok mix ;red mild menthol;Unbranded;22000;7;Yes;Yes;Yes;20305
+97559577;rokok mix ;duff fruitmix;Unbranded;21000;0;Yes;Yes;Yes;19234
+97559584;rokok mix ;duff berry;Unbranded;21000;0;Yes;Yes;Yes;19069
+97559768;rokok djarum;cigarillos;Unbranded;14000;10;Yes;No;Yes;12557
+97559846;rokok marlboro;marlboro kretek merah;Unbranded;12000;10;Yes;Yes;Yes;10873
+97559899;rokok mix ;169  16;Unbranded;10500;2;Yes;Yes;Yes;8949
+97560073;rokok mix ;gajah baru;Unbranded;17000;14;Yes;Yes;Yes;15584
+97563125;rokok mix ;mozza;Unbranded;16000;3;Yes;Yes;Yes;14753
+97563213;rokok mix ;forza;Unbranded;12000;0;Yes;Yes;Yes;10793
+97563229;rokok mix ;filla bold;Unbranded;21500;5;Yes;Yes;Yes;19919
+97563487;rokok mix ;djeruk special;Unbranded;12500;1;Yes;Yes;Yes;11200
+97563552;rokok mix ;djeruk emas;Unbranded;14500;-1;Yes;Yes;Yes;13116
+97563714;rokok mix ;djeruk kretek 10;Unbranded;7000;10;Yes;Yes;Yes;6332
+97563769;rokok mix ;dados;Unbranded;6500;0;Yes;Yes;Yes;5300
+97563891;rokok mix ;esse change juice 16;Unbranded;22000;0;Yes;Yes;Yes;21000
+97564034;rokok mix ;harmoni kretek 16;Unbranded;11500;8;Yes;Yes;Yes;10302
+97564041;rokok mix ;tabaco;Unbranded;12000;2;Yes;Yes;Yes;10865
+97564091;rokok mix ;harmoni filter 12;Unbranded;15000;-1;Yes;Yes;Yes;13431
+97564106;rokok mix ;juara kretek;Unbranded;14500;3;Yes;Yes;Yes;13236
+97564151;rokok mix ;win mild 16;Unbranded;20000;0;Yes;Yes;Yes;18351
+97564162;rokok mix ;win mild minticeta;Unbranded;21000;0;Yes;Yes;Yes;19879
+97564177;rokok mix ;win bold;Unbranded;27000;4;Yes;Yes;Yes;25620
+97566359;rokok mix ;torino;Unbranded;18500;0;Yes;Yes;Yes;17500
+97566555;rokok mix ;milenium;Unbranded;18500;0;Yes;Yes;Yes;17500
+97566579;rokok mix ;grendel mild;Unbranded;17000;0;Yes;Yes;Yes;15000
+97566843;rokok mix ;grendel utama;Unbranded;8000;0;Yes;Yes;Yes;7000
+97566856;rokok mix ;grendel filter biru;Unbranded;15000;0;Yes;Yes;Yes;13400
+97566873;rokok mix ;sukun executive 16;Unbranded;23000;4;Yes;Yes;Yes;21213
+97566934;rokok mix ;sukun special 16;Unbranded;23500;4;Yes;Yes;Yes;22148
+97567239;rokok mix ;camel intense blue;Unbranded;20000;0;Yes;Yes;Yes;19000
+97567251;rokok mix ;363;Unbranded;12000;3;Yes;Yes;Yes;10478
+97567267;rokok mix ;aspro 16;Unbranded;21500;3;Yes;Yes;Yes;20468
+97567504;rokok mix ;viper;Unbranded;20000;4;Yes;Yes;Yes;18899
+97567522;rokok mix ;crystal;Unbranded;19500;1;Yes;Yes;Yes;18099
+97567530;rokok mix ;apache 20;Unbranded;15000;-1;Yes;Yes;Yes;14000
+97567658;rokok mix ;orbit;Unbranded;8500;19;Yes;Yes;Yes;7434
+97567669;rokok mix ;halim;Unbranded;23500;4;Yes;Yes;Yes;22010
+97567706;rokok mix ;janaka;Unbranded;7000;1;Yes;Yes;No;
+97567712;rokok mix ;wismilak kretek;Unbranded;15000;0;Yes;Yes;Yes;13800
+97567722;rokok mix ;dunhill hitam 16;Unbranded;29000;4;Yes;Yes;Yes;27250
+97568137;rokok mix ;dunhill putih 16;Unbranded;29000;3;Yes;Yes;Yes;27277
+97568167;rokok mix ;diplomat evo;Unbranded;23000;7;Yes;Yes;Yes;21810
+97568172;rokok mix ;diplomat mild;Unbranded;24000;3;Yes;Yes;Yes;22149
+97568213;rokok mix ;aroma kretek 12;Unbranded;11000;0;Yes;Yes;Yes;9684
+97568236;rokok mix ;aroma bold 12;Unbranded;16000;3;Yes;Yes;Yes;14990
+97568254;rokok mix ;country;Unbranded;27000;7;Yes;Yes;Yes;25409
+97568281;rokok mix ;marcopolo coklat;Unbranded;27000;3;Yes;Yes;Yes;25108
+97568308;rokok mix ;kennedy;Unbranded;26500;3;Yes;Yes;Yes;24917
+97568331;rokok mix ;arres;Unbranded;15000;0;Yes;Yes;Yes;12350
+97568605;accessories;kotak rokok jati belanda;Unbranded;20000;-8;Yes;Yes;Yes;12000
+97571618;tembakau taru harum;rhino apel;Unbranded;18000;17;Yes;Yes;Yes;15000
+97571873;tembakau taru harum;rhino coffe;Unbranded;18000;4;Yes;Yes;Yes;15000
+97573062;rokok marlboro;marlboro merah;Unbranded;43000;1;Yes;Yes;Yes;41092
+97573080;rokok marlboro;marlboro gold;Unbranded;43000;3;Yes;Yes;Yes;39231
+97573137;rokok marlboro;marlboro ice brust;Unbranded;43000;4;Yes;Yes;Yes;40177
+97575187;rokok lodjie;lodji gold;Unbranded;9000;0;Yes;Yes;Yes;8000
+97577110;rokok mix ;lucky strike merah;Unbranded;28000;0;Yes;Yes;Yes;26345
+97577141;rokok mix ;lucky strike menthol;Unbranded;27000;0;Yes;Yes;Yes;26000
+97577415;rokok djarum;mustang;Unbranded;17500;2;Yes;Yes;Yes;15990
+97577447;rokok gudang garam;gudang garam internasional;Unbranded;26000;4;Yes;Yes;Yes;23966
+97629498;rokok lodjie;lodji premio 12;Unbranded;8500;4;Yes;Yes;Yes;7490
+97636436;rokok sampoerna;sampoerna splash sunny 16;Unbranded;29000;5;Yes;Yes;Yes;27316
+97638332;rokok mix ;djeruk special kretek 12;Unbranded;7500;0;Yes;Yes;Yes;6533
+97661432;kertas papir;papir royo oren;Unbranded;4000;7;Yes;Yes;Yes;2700
+97662271;tembakau taru harum;rhino merah;Unbranded;17000;15;Yes;Yes;Yes;14000
+97662278;tembakau taru harum;dream;Unbranded;18000;4;Yes;Yes;Yes;15200
+97662296;kertas papir;papir violin;Unbranded;1500;0;Yes;Yes;Yes;800
+97662430;kertas papir;papir kiai;Unbranded;500;265;Yes;Yes;Yes;270
+97662443;kertas papir;papir mbako.com;Unbranded;500;6;Yes;Yes;Yes;300
+97662446;kertas papir;papir wayang merah;Unbranded;500;33;Yes;Yes;Yes;336
+97662458;kertas papir;papir satria;Unbranded;500;-2;Yes;Yes;Yes;300
+97663724;cerutu;crt borobudur apel;Unbranded;10000;10;Yes;Yes;Yes;5355
+97663732;cerutu;crt borobudur mint;Unbranded;10000;16;Yes;Yes;Yes;5213
+97663737;cerutu;crt borobudur fruity;Unbranded;10000;11;Yes;Yes;Yes;4900
+97663742;cerutu;crt borobudur coffee;Unbranded;10000;10;Yes;Yes;Yes;5400
+97663747;cerutu;crt noraken;Unbranded;14000;1;Yes;Yes;Yes;9400
+97663752;cerutu;crt ramayana corona;Unbranded;8000;41;Yes;Yes;Yes;5423
+97663755;cerutu;crt ramayana senioritas;Unbranded;7000;11;Yes;Yes;Yes;4780
+97663758;cerutu;crt senator;Unbranded;10000;10;Yes;Yes;Yes;5279
+97663764;cengkeh;menyan madu cap 888;Unbranded;5000;12;Yes;Yes;Yes;3000
+97663767;cengkeh;klembak sentel tjap pari;Unbranded;1500;22;Yes;Yes;Yes;800
+97663924;accessories;korek roda;Unbranded;2500;5;Yes;Yes;Yes;1400
+97663925;accessories;korek cetik;Unbranded;3000;41;Yes;Yes;Yes;2000
+97663926;accessories;korek bara;Unbranded;5000;17;Yes;Yes;Yes;2866
+97663927;accessories;korek kayu;Unbranded;1000;17;Yes;Yes;Yes;355
+97663960;filter;filter mild super;Unbranded;3000;0;No;No;Yes;1050
+97663962;filter;filter mild super;Unbranded;17000;0;No;No;Yes;7500
+97663963;filter;filter mild super;Unbranded;33000;0;No;No;Yes;15000
+97663978;tembakau original;siluk;Unbranded;7000;0;No;No;Yes;2500
+97663979;tembakau original;siluk;Unbranded;13000;0;No;No;Yes;5000
+97663980;tembakau original;siluk;Unbranded;25000;0;No;No;Yes;10000
+97663983;tembakau original;sindoro super soft;Unbranded;10000;0;No;No;Yes;4500
+97663984;tembakau original;sindoro super soft;Unbranded;18000;0;No;No;Yes;9000
+97663985;tembakau original;sindoro super soft;Unbranded;35000;0;No;No;Yes;18000
+97663987;tembakau original;ampenan;Unbranded;7000;0;No;No;Yes;2500
+97663988;tembakau original;ampenan;Unbranded;13000;0;No;No;Yes;5000
+97663989;tembakau original;ampenan;Unbranded;25000;0;No;No;Yes;10000
+97663996;tembakau original;sindoro lamuk antep;Unbranded;9000;0;No;No;Yes;4000
+97663997;tembakau original;sindoro lamuk antep;Unbranded;16000;0;No;No;Yes;8000
+97663998;tembakau original;sindoro lamuk antep;Unbranded;30000;0;No;No;Yes;16000
+97664012;tembakau original;darmawangi;Unbranded;9000;0;No;No;Yes;4000
+97664013;tembakau original;darmawangi;Unbranded;16000;0;No;No;Yes;8000
+97664014;tembakau original;darmawangi;Unbranded;30000;0;No;No;Yes;16000
+97664015;tembakau original;boyolali antep;Unbranded;9000;0;No;No;Yes;4000
+97664016;tembakau original;boyolali antep;Unbranded;16000;0;No;No;Yes;8000
+97664017;tembakau original;boyolali antep;Unbranded;30000;0;No;No;Yes;16000
+97664023;tembakau original;taman kursi;Unbranded;7000;0;No;No;Yes;3250
+97664024;tembakau original;taman kursi;Unbranded;13000;0;No;No;Yes;6500
+97664025;tembakau original;taman kursi;Unbranded;25000;0;No;No;Yes;13000
+97705796;rokok gudang garam;gudang garam klobot;Unbranded;11000;10;Yes;Yes;Yes;9849
+97723564;tembakau original;besuki;Unbranded;8000;0;No;No;Yes;4000
+97723565;tembakau original;besuki;Unbranded;15000;0;No;No;Yes;8000
+97723566;tembakau original;besuki;Unbranded;28000;0;No;No;Yes;16000
+97723690;tembakau original;escote;Unbranded;6500;0;No;No;Yes;2125
+97723691;tembakau original;escote;Unbranded;12000;0;No;No;Yes;4250
+97723692;tembakau original;escote;Unbranded;23000;0;No;No;Yes;8500
+97723818;tembakau sw;sw vodka;Unbranded;13000;0;Yes;Yes;Yes;9000
+97723821;tembakau sw;sw redwine;Unbranded;13000;-3;Yes;Yes;Yes;9000
+97723823;tembakau sw;sw menthol;Unbranded;13000;0;Yes;Yes;Yes;9000
+97723826;tembakau sw;sw apple;Unbranded;13000;0;Yes;Yes;Yes;9000
+97746180;tembakau mole;darma 74 kuning;Unbranded;8000;13;Yes;Yes;Yes;5929
+97763838;tembakau taru harum;hercules;Unbranded;11000;-3;Yes;Yes;Yes;9000
+97763865;tembakau taru harum;patron;Unbranded;12000;-3;Yes;Yes;Yes;10000
+97767243;kertas papir;papir pagupon;Unbranded;1000;24;Yes;Yes;Yes;448
+97833914;rokok mix ;bagas;Unbranded;8500;0;Yes;Yes;Yes;7500
+97870810;rokok mix ;juara filter;Unbranded;23000;1;Yes;Yes;Yes;21378
+98025076;tembakau original;sopeng;Unbranded;13000;0;Yes;Yes;Yes;9000
+98027480;kertas papir;papir irawan;Unbranded;500;-8;Yes;Yes;Yes;390
+98031028;filter;filter klik strawbery;Unbranded;3000;-3;Yes;Yes;Yes;1600
+98077239;alat linting;kain alat linting kecil;Unbranded;3000;6;Yes;Yes;Yes;1500
+98143591;rokok marlboro;marlboro kretek biru;Unbranded;11000;10;Yes;Yes;Yes;9883
+98385837;rokok djarum;djarum 76 madu hitam;Unbranded;14500;5;Yes;Yes;Yes;13189
+98460187;rokok herbal;tani madjoe;Unbranded;12000;88;Yes;Yes;Yes;9300
+98689799;rokok mix ;camel purple 12;Unbranded;19000;7;Yes;Yes;Yes;17437
+98689866;rokok mix ;commodore filter;Unbranded;23000;0;Yes;Yes;Yes;21540
+98921686;tembakau rasa;whisky mint;Unbranded;7000;0;No;No;Yes;3750
+98921687;tembakau rasa;whisky mint;Unbranded;13000;0;No;No;Yes;7500
+98921688;tembakau rasa;whisky mint;Unbranded;25000;0;No;No;Yes;15000
+98921697;tembakau rasa;red wine;Unbranded;7000;0;No;No;Yes;3750
+98921698;tembakau rasa;red wine;Unbranded;13000;0;No;No;Yes;7500
+98921699;tembakau rasa;red wine;Unbranded;25000;0;No;No;Yes;15000
+98921718;tembakau rasa;black wine;Unbranded;7000;0;No;No;Yes;3750
+98921719;tembakau rasa;black wine;Unbranded;13000;0;No;No;Yes;7500
+98921720;tembakau rasa;black wine;Unbranded;25000;0;No;No;Yes;15000
+98921722;tembakau rasa;jamaica esse;Unbranded;7000;0;No;No;Yes;3750
+98921723;tembakau rasa;jamaica esse;Unbranded;13000;0;No;No;Yes;7500
+98921724;tembakau rasa;jamaica esse;Unbranded;25000;0;No;No;Yes;15000
+98921749;tembakau rasa;strawberry mint;Unbranded;7000;0;No;No;Yes;3750
+98921750;tembakau rasa;strawberry mint;Unbranded;13000;0;No;No;Yes;7500
+98921751;tembakau rasa;strawberry mint;Unbranded;25000;0;No;No;Yes;15000
+98921761;tembakau rasa;green tea;Unbranded;7000;0;No;No;Yes;3750
+98921762;tembakau rasa;green tea;Unbranded;13000;0;No;No;Yes;7500
+98921763;tembakau rasa;green tea;Unbranded;25000;0;No;No;Yes;15000
+98921774;tembakau rasa;apple swett mint;Unbranded;7000;0;No;No;Yes;3750
+98921775;tembakau rasa;apple swett mint;Unbranded;13000;0;No;No;Yes;7500
+98921776;tembakau rasa;apple swett mint;Unbranded;25000;0;No;No;Yes;15000
+98921785;tembakau rasa;cappucino;Unbranded;7000;0;No;No;Yes;3750
+98921786;tembakau rasa;cappucino;Unbranded;13000;0;No;No;Yes;7500
+98921787;tembakau rasa;cappucino;Unbranded;25000;0;No;No;Yes;15000
+99144701;filter;filter regular mint;Unbranded;3000;0;No;No;Yes;1020
+99144702;filter;filter regular mint;Unbranded;13000;0;No;No;Yes;5100
+99144703;filter;filter regular mint;Unbranded;25000;0;No;No;Yes;10200
+99307107;rokok herbal;assikha habbats;Unbranded;22000;35;Yes;Yes;Yes;16400
+99632019;rokok mix ;harmoni filter 16;Unbranded;17000;0;Yes;Yes;Yes;15710
+99925187;tembakau mole;marsbrand;Unbranded;16000;44;Yes;Yes;Yes;13818
+100074472;rokok sampoerna;Djisamsoe elite 12;Unbranded;18500;3;Yes;Yes;Yes;16838
+100480315;rokok djarum;djarum 76 filter 12;Unbranded;23000;4;Yes;Yes;Yes;21300
+100483149;kertas papir;papir sam kiu;Unbranded;1000;0;No;No;Yes;453
+100483150;kertas papir;papir sam kiu;Unbranded;2000;0;No;No;Yes;1359
+100485590;cerutu;Crt adipati half corona;Unbranded;10000;0;Yes;Yes;Yes;5400
+100485627;cerutu;Crt mundi victor;Unbranded;10000;7;Yes;Yes;Yes;5380
+100486050;cerutu;Crt ramayana extra cigarilos;Unbranded;5000;6;Yes;Yes;Yes;3620
+100486588;cerutu;Crt borobudur vanilla;Unbranded;10000;10;Yes;Yes;Yes;5400
+100545612;tembakau original;Sindoro tionggang 45k;Unbranded;12000;0;No;No;Yes;4250
+100545613;tembakau original;Sindoro tionggang 45k;Unbranded;23000;0;No;No;Yes;8500
+100545614;tembakau original;Sindoro tionggang 45k;Unbranded;45000;0;No;No;Yes;17000
+100819351;rokok sampoerna;Triton;Unbranded;21500;0;Yes;Yes;Yes;18950
+101565018;rokok mix ;win mild 20;Unbranded;26500;5;Yes;Yes;Yes;20854
+101568075;rokok gudang garam;surya kaleng ecer;Unbranded;2500;35;Yes;Yes;Yes;1852
+101568109;rokok mix ;tali jagat;Unbranded;10500;2;Yes;Yes;Yes;9160
+101568133;cengkeh;cengkeh menjangan putih;Unbranded;3000;49;Yes;Yes;Yes;1950
+101903953;tembakau original;sindoro jumprit;Unbranded;12000;0;No;Yes;Yes;5000
+101903954;tembakau original;sindoro jumprit;Unbranded;23000;0;No;Yes;Yes;10000
+101903955;tembakau original;sindoro jumprit;Unbranded;45000;0;No;Yes;Yes;20000
+102508858;rokok mix ;aroma mile;Unbranded;21000;0;Yes;Yes;Yes;18947
+102508888;cengkeh;cengkeh 55;Unbranded;1000;-2;Yes;Yes;Yes;740
+102508900;tembakau rasa;teh manis;Unbranded;7000;0;No;No;Yes;3775
+102508901;tembakau rasa;teh manis;Unbranded;13000;0;No;No;Yes;7550
+102508902;tembakau rasa;teh manis;Unbranded;25000;0;No;No;Yes;15100
+103123472;rokok lodjie;lodjie cerutu;Unbranded;8500;4;Yes;Yes;Yes;7485
+103123509;rokok mix ;camel yellow 12;Unbranded;19000;3;Yes;Yes;Yes;17405
+103123533;rokok mix ;LA purple bost;Unbranded;32000;3;Yes;Yes;Yes;30668
+103123561;rokok mix ;kerbau jaya 12;Unbranded;8000;5;Yes;Yes;Yes;6841
+103221278;filter;filter regular super;Unbranded;3000;0;No;No;Yes;1050
+103221279;filter;filter regular super;Unbranded;17000;0;No;No;Yes;7500
+103221280;filter;filter regular super;Unbranded;30000;0;No;No;Yes;15000
+103221567;tembakau rokok;tembakau rokok marlboro;Unbranded;6500;0;No;No;Yes;3100
+103221568;tembakau rokok;tembakau rokok marlboro;Unbranded;12000;0;No;No;Yes;6200
+128884311;tembakau rokok;tembakau rokok marlboro;Unbranded;55000;0;No;No;No;
+103260539;rokok mix ;esse banana;Unbranded;20000;-5;Yes;Yes;Yes;18872
+103260577;rokok mix ;esse change juicy 20;Unbranded;33000;0;Yes;Yes;Yes;30800
+103260622;accessories;slepen;Unbranded;15000;-5;Yes;Yes;Yes;9972
+103260811;rokok sampoerna;Arres bold;Unbranded;16000;4;Yes;Yes;Yes;14630
+103362580;rokok lodjie;tepat filter;Unbranded;16000;-1;Yes;Yes;Yes;14500
+103362712;rokok lodjie;tepat kretek;Unbranded;10000;5;Yes;Yes;Yes;7759
+104387013;rokok mix ;camel purple 20;Unbranded;26000;-2;Yes;Yes;Yes;24406
+104387026;rokok mix ;aroma slim 12;Unbranded;9500;1;Yes;Yes;Yes;8250
+104387041;rokok mix ;dunhill hitam 12;Unbranded;22000;6;Yes;Yes;Yes;20405
+104387706;rokok mix ;bhumi;Unbranded;9500;3;Yes;Yes;Yes;8523
+104387709;cerutu;crt adipati slim panatela;Unbranded;8000;8;Yes;Yes;Yes;5187
+104387755;tembakau taru martani;countryman;Unbranded;11000;52;Yes;Yes;Yes;8900
+104387758;tembakau taru martani;mundi vctor;Unbranded;15000;37;Yes;Yes;Yes;12900
+104387866;accessories;kotak rokok kayu jati coklat;Unbranded;20000;2;Yes;Yes;Yes;12000
+104387881;accessories;kotak rokok motif;Unbranded;30000;4;Yes;Yes;Yes;17929
+104387992;tembakau original;tambeng krepek mawar;Unbranded;12000;0;No;No;Yes;6225
+104387993;tembakau original;tambeng krepek mawar;Unbranded;23000;0;No;No;Yes;12450
+104387994;tembakau original;tambeng krepek mawar;Unbranded;45000;0;No;No;Yes;24900
+104480871;rokok herbal;ck;Unbranded;17500;39;Yes;Yes;Yes;15740
+105197173;rokok lodjie;lodjie premio 20;Unbranded;12000;17;Yes;Yes;Yes;11000
+105397414;rokok sampoerna;Twist royal crush;Unbranded;23000;0;Yes;Yes;Yes;21932
+105397464;rokok sampoerna;Twist yellow crush;Unbranded;23000;2;Yes;Yes;Yes;17850
+106223702;alat linting;lem vetrro;Unbranded;3000;1;Yes;Yes;Yes;1375
+107377988;rokok mix ;aspro 12;Unbranded;17000;5;Yes;Yes;Yes;15722
+108692552;accessories;Kotak box silver;Unbranded;25000;-1;Yes;Yes;Yes;15000
+108692559;accessories;kotak box hitam;Unbranded;25000;-6;Yes;Yes;Yes;17000
+109759637;rokok mix ;bohem mojito;Unbranded;37000;7;Yes;Yes;Yes;35409
+109759855;rokok mix ;clas mild 16;Unbranded;27500;4;Yes;Yes;Yes;26377
+109761136;rokok djarum;djarum king 12;Unbranded;20000;1;Yes;Yes;Yes;19023
+110508955;rokok lodjie;son kretek;Unbranded;9000;0;Yes;Yes;Yes;7000
+110509005;rokok lodjie;son filter;Unbranded;15500;0;Yes;Yes;Yes;14000
+111959794;rokok mix ;win click berry;Unbranded;28500;6;Yes;Yes;Yes;26841
+112962228;accessories;paket zippo;Unbranded;55000;0;Yes;Yes;Yes;37000
+112962441;accessories;asbak alumunium;Unbranded;5000;11;Yes;Yes;Yes;1200
+113098556;accessories;cover korek;Unbranded;10000;2;Yes;Yes;Yes;4000
+113129702;kertas papir;papir motif rokok;Unbranded;1500;-518;Yes;Yes;Yes;710
+113181080;rokok mix ;Tabaco filter 12;Unbranded;16000;7;Yes;Yes;Yes;14602
+113818593;rokok mix ;johnson 20;Unbranded;24000;1;Yes;Yes;Yes;22523
+114026449;tembakau original;sindoro soft super;Unbranded;14000;0;No;No;Yes;7500
+114026450;tembakau original;sindoro soft super;Unbranded;26000;0;No;No;Yes;15000
+114026451;tembakau original;sindoro soft super;Unbranded;50000;0;No;No;Yes;30000
+114026770;tembakau original;siluk soft 29k;Unbranded;8000;0;No;No;Yes;3250
+114026771;tembakau original;siluk soft 29k;Unbranded;15000;0;No;No;Yes;6500
+114026772;tembakau original;siluk soft 29k;Unbranded;29000;0;No;No;Yes;13000
+114146817;tembakau rokok;Tembakau rokok LA;Unbranded;6500;0;No;Yes;Yes;3100
+114146818;tembakau rokok;Tembakau rokok LA;Unbranded;12000;0;No;Yes;Yes;6200
+114146819;tembakau rokok;Tembakau rokok LA;Unbranded;55000;0;No;Yes;Yes;31000
+114148011;tembakau rokok;tembakau rokok ggf;Unbranded;6500;0;No;No;Yes;3100
+114148012;tembakau rokok;tembakau rokok ggf;Unbranded;12000;0;No;No;Yes;6200
+114148013;tembakau rokok;tembakau rokok ggf;Unbranded;55000;0;No;No;Yes;31000
+114148043;tembakau rokok;tembakau rokok mild;Unbranded;6500;0;No;No;Yes;3100
+114148044;tembakau rokok;tembakau rokok mild;Unbranded;12000;0;No;No;Yes;6200
+114148045;tembakau rokok;tembakau rokok mild;Unbranded;55000;0;No;No;Yes;31000
+114148055;tembakau rokok;tembakau rokok djarum;Unbranded;6500;0;No;No;Yes;3100
+114148056;tembakau rokok;tembakau rokok djarum;Unbranded;12000;0;No;No;Yes;6200
+114148057;tembakau rokok;tembakau rokok djarum;Unbranded;55000;0;No;No;Yes;31000
+114148070;tembakau rokok;tembakau rokok samsu;Unbranded;6500;0;No;No;Yes;3100
+114148071;tembakau rokok;tembakau rokok samsu;Unbranded;12000;0;No;No;Yes;6200
+114148072;tembakau rokok;tembakau rokok samsu;Unbranded;55000;0;No;No;Yes;31000
+114148093;tembakau rokok;tembakau rokok 76;Unbranded;6500;0;No;No;Yes;3100
+114148094;tembakau rokok;tembakau rokok 76;Unbranded;12000;0;No;No;Yes;6200
+114148095;tembakau rokok;tembakau rokok 76;Unbranded;55000;0;No;No;Yes;31000
+114150328;cengkeh;cengkeh manado;Unbranded;3000;0;No;No;Yes;1520
+114150329;cengkeh;cengkeh manado;Unbranded;12000;0;No;No;Yes;7600
+114959813;cengkeh;cengkeh manado;Unbranded;22000;0;No;No;Yes;15200
+114150868;filter;filter mild pasir;Unbranded;3000;0;No;No;Yes;1300
+114150869;filter;filter mild pasir;Unbranded;13000;0;No;No;Yes;6500
+114150870;filter;filter mild pasir;Unbranded;25000;0;No;No;Yes;13000
+114151144;filter;filter bold;Unbranded;3000;0;No;No;Yes;1620
+114151145;filter;filter bold;Unbranded;16000;0;No;No;Yes;9000
+114151146;filter;filter bold;Unbranded;30000;0;No;No;Yes;18000
+114446943;accessories;Asbak gypsum;Unbranded;35000;0;Yes;Yes;Yes;25000
+115054056;rokok djarum;djarum 76 kurma;Unbranded;15000;0;Yes;Yes;Yes;13521
+115751929;rokok mix ;Tenor kretek;Unbranded;9000;19;Yes;Yes;Yes;7650
+116316935;rokok mix ;grow berry 12;Unbranded;18500;3;Yes;Yes;Yes;16918
+116316966;rokok mix ;grow berry 16;Unbranded;23000;1;Yes;Yes;Yes;21608
+116317163;rokok mix ;grow kretek kuning;Unbranded;9000;0;Yes;Yes;Yes;7654
+116357699;rokok mix ;Tepat kopi filter;Unbranded;16000;2;Yes;Yes;Yes;14077
+116518387;tembakau original;Merapi;Unbranded;9000;0;No;No;Yes;4775
+116518388;tembakau original;Merapi;Unbranded;16000;0;No;No;Yes;9550
+116518389;tembakau original;Merapi;Unbranded;30000;0;No;No;Yes;19100
+116582298;rokok mix ;wismilak slim 16;Unbranded;17500;5;Yes;Yes;Yes;16388
+116582372;rokok mix ;marcopolo lights 20;Unbranded;27000;0;Yes;Yes;Yes;21595
+116582441;rokok mix ;kerbau long size 12;Unbranded;8500;2;Yes;Yes;Yes;7032
+116596653;kertas papir;papir njuling;Unbranded;1000;0;No;No;Yes;440
+116596654;kertas papir;papir njuling;Unbranded;2000;0;No;No;Yes;1320
+116601084;kertas papir;papir samkiu kretek;Unbranded;500;218;Yes;Yes;Yes;231
+116601315;kertas papir;papir melawan;Unbranded;1000;0;No;No;Yes;440
+116601316;kertas papir;papir melawan;Unbranded;2000;0;No;No;Yes;1320
+116601337;kertas papir;papir payung;Unbranded;1000;0;No;No;Yes;809
+116601338;kertas papir;papir payung;Unbranded;2000;0;No;No;Yes;2427
+116914970;cerutu;crt adipati panatella;Unbranded;9000;5;Yes;Yes;Yes;5000
+117287699;tembakau rasa;candy ice;Unbranded;7000;0;No;No;Yes;3750
+117287700;tembakau rasa;candy ice;Unbranded;13000;0;No;No;Yes;7500
+117287701;tembakau rasa;candy ice;Unbranded;25000;0;No;No;Yes;15000
+117287736;tembakau rasa;bublegum;Unbranded;7000;0;No;No;Yes;3750
+117287737;tembakau rasa;bublegum;Unbranded;13000;0;No;No;Yes;7500
+117287738;tembakau rasa;bublegum;Unbranded;25000;0;No;No;Yes;15000
+117409609;tembakau original;ploso habis;Unbranded;13500;0;No;No;Yes;7525
+117409610;tembakau original;ploso habis;Unbranded;26000;0;No;No;Yes;15050
+117409611;tembakau original;ploso habis;Unbranded;50000;0;No;No;Yes;30100
+118618625;tembakau taru martani;roll now;Unbranded;12000;26;Yes;Yes;Yes;8590
+118618773;kertas papir;papir rom mangga;Unbranded;1000;0;No;No;Yes;480
+118618774;kertas papir;papir rom mangga;Unbranded;2000;0;No;No;Yes;1440
+118622293;rokok sampoerna;cap nona hitam putih 120gr;Unbranded;20000;0;Yes;Yes;Yes;17500
+119044080;accessories;pipa tanduk sedang;Unbranded;20000;7;Yes;Yes;Yes;12500
+119240744;rokok mix ;lakon kretek 12;Unbranded;8000;3;Yes;Yes;Yes;6845
+119243234;tembakau original;paiton;Unbranded;10000;0;No;No;Yes;4275
+119243235;tembakau original;paiton;Unbranded;18000;0;No;No;Yes;8550
+119243236;tembakau original;paiton;Unbranded;35000;0;No;No;Yes;17100
+119243239;tembakau original;karpote madura;Unbranded;15000;0;No;No;Yes;7500
+119243240;tembakau original;karpote madura;Unbranded;28000;0;No;No;Yes;15000
+119243241;tembakau original;karpote madura;Unbranded;55000;0;No;No;Yes;30000
+119343339;rokok mix ;kansas 12;Unbranded;10500;0;Yes;Yes;Yes;9697
+119343354;rokok mix ;tepat hitam 12;Unbranded;8000;1;Yes;Yes;Yes;7000
+119840445;rokok mix ;Saroja;Unbranded;10000;0;Yes;Yes;Yes;8547
+119840471;rokok mix ;Juara jambu;Unbranded;15000;3;Yes;Yes;Yes;13071
+120401832;rokok mix ;kansas 20;Unbranded;16500;2;Yes;Yes;Yes;14904
+121142453;rokok djarum;76 mangga;Unbranded;15000;5;Yes;Yes;Yes;13273
+121142457;rokok mix ;juara mangga;Unbranded;15500;0;Yes;Yes;Yes;13184
+121190291;rokok mix ;bossini 20;Unbranded;23500;0;Yes;Yes;Yes;21946
+121190292;rokok mix ;la bold;Unbranded;33500;2;Yes;Yes;Yes;32076
+121190348;rokok mix ;hitz teh manis;Unbranded;10000;0;Yes;Yes;Yes;8505
+121896634;tembakau original;ploso gading;Unbranded;12000;0;No;No;Yes;5000
+121896635;tembakau original;ploso gading;Unbranded;23000;0;No;No;Yes;10000
+121896636;tembakau original;ploso gading;Unbranded;45000;0;No;No;Yes;20000
+121896646;tembakau original;lamsi medium;Unbranded;10000;0;No;No;Yes;4000
+121896647;tembakau original;lamsi medium;Unbranded;18000;0;No;No;Yes;8000
+121896648;tembakau original;lamsi medium;Unbranded;35000;0;No;No;Yes;16000
+122085682;accessories;Cover korek kulit;Unbranded;35000;1;Yes;Yes;Yes;27000
+122558844;accessories;pipa tulang sapi;Unbranded;30000;4;Yes;Yes;Yes;15349
+122558895;accessories;kotak tembakau kayu;Unbranded;15000;4;Yes;Yes;Yes;5000
+122559315;rokok mix ;esse double pop;Unbranded;32000;0;Yes;Yes;Yes;30099
+122559726;rokok sampoerna;praja;Unbranded;7500;4;Yes;Yes;Yes;6500
+122776396;cengkeh;Cengkeh gunung tidar;Unbranded;1000;163;Yes;Yes;Yes;750
+122804659;rokok herbal;St matur suwun oxy;Unbranded;14000;0;Yes;Yes;Yes;12000
+123425352;rokok mix ;yk mangga;Unbranded;9000;1;Yes;Yes;Yes;8060
+123529947;alat linting;Rollbox mascotte;Unbranded;40000;2;Yes;Yes;Yes;23000
+123529974;rokok lodjie;lodjie filter 12;Unbranded;15000;0;Yes;Yes;Yes;13500
+123748628;kertas papir;papir mignot tm;Unbranded;4000;46;Yes;Yes;Yes;2200
+123748639;rokok mix ;tolak miskin;Unbranded;8000;0;Yes;Yes;Yes;6536
+125218263;rokok mix ;169 12;Unbranded;8500;2;Yes;Yes;Yes;7240
+125218271;rokok mix ;tabaco bold 12;Unbranded;16000;5;Yes;Yes;Yes;14601
+125218368;rokok gudang garam;gg sriwedari;Unbranded;14500;3;Yes;Yes;Yes;12770
+125218980;tembakau rasa;mangga ice;Unbranded;7000;0;No;No;Yes;3750
+125218981;tembakau rasa;mangga ice;Unbranded;13000;0;No;No;Yes;7500
+125218982;tembakau rasa;mangga ice;Unbranded;25000;0;No;No;Yes;15000
+125218983;tembakau rasa;melon ice;Unbranded;7000;0;No;No;Yes;3750
+125218984;tembakau rasa;melon ice;Unbranded;13000;0;No;No;Yes;7500
+125218985;tembakau rasa;melon ice;Unbranded;25000;0;No;No;Yes;15000
+125218988;tembakau rasa;banana;Unbranded;7000;0;No;No;Yes;3875
+125218989;tembakau rasa;banana;Unbranded;13000;0;No;No;Yes;7750
+125218990;tembakau rasa;banana;Unbranded;25000;0;No;No;Yes;15500
+125287856;tembakau original;temanggung;Unbranded;7000;0;No;No;Yes;2500
+125287857;tembakau original;temanggung;Unbranded;13000;0;No;No;Yes;5000
+125287858;tembakau original;temanggung;Unbranded;25000;0;No;No;Yes;10000
+126392825;rokok mix ;363 kretek 12;Unbranded;8000;1;Yes;Yes;Yes;6930
+126392826;rokok mix ;win filter 12;Unbranded;17000;0;Yes;Yes;Yes;15698
+126528739;cerutu;crt adipati super corona;Unbranded;18000;9;Yes;Yes;Yes;11560
+126528849;kertas papir;papir royo hijau;Unbranded;4000;10;Yes;Yes;Yes;2700
+126528888;cengkeh;cengkeh gunung wayang;Unbranded;2000;59;Yes;Yes;Yes;1050
+126937419;rokok mix ;tabaco bold 20;Unbranded;23500;4;Yes;Yes;Yes;13883
+127178726;accessories;kotak rokok akrilik hitam;Unbranded;25000;1;Yes;Yes;Yes;13100
+127180684;filter;filter reguler klik;Unbranded;4000;0;No;No;Yes;1719
+127180685;filter;filter reguler klik;Unbranded;19000;0;No;No;Yes;9550
+127180686;filter;filter reguler klik;Unbranded;37000;0;No;No;Yes;19100
+127180772;filter;filter mild bubblegum klik;Unbranded;4000;0;No;No;Yes;1440
+127180773;filter;filter mild bubblegum klik;Unbranded;19000;0;No;No;Yes;8000
+127180774;filter;filter mild bubblegum klik;Unbranded;37000;0;No;No;Yes;16000
+127498754;accessories;kotak rokok firetric gliter;Unbranded;20000;8;Yes;Yes;Yes;12100
+127687187;accessories;Korek zurich;Unbranded;5000;25;Yes;Yes;Yes;3800
+128055949;kertas papir;Papir kertas Raw;Unbranded;15000;0;Yes;Yes;Yes;12500
+129029093;accessories;pipa kayu gaharu;Unbranded;20000;6;Yes;Yes;Yes;10000
+129029097;accessories;pipa tanduk panjang;Unbranded;25000;3;Yes;Yes;Yes;12000
+129367547;tembakau mole;cap nona putih kecil;Unbranded;11000;6;Yes;Yes;Yes;8500
+129400452;filter;filter reg bubblegum klik;Unbranded;4000;0;No;No;Yes;1440
+129400453;filter;filter reg bubblegum klik;Unbranded;19000;0;No;No;Yes;8000
+129400454;filter;filter reg bubblegum klik;Unbranded;37000;0;No;No;Yes;16000
+129455053;cengkeh;cengkeh gaun;Unbranded;2000;35;Yes;Yes;Yes;1260
+129506410;rokok mix ;yk apel 16;Unbranded;11500;4;Yes;Yes;Yes;10057
+129506412;rokok djarum;mld fresh cola;Unbranded;29000;3;Yes;Yes;Yes;26995
+130201865;cerutu;crt Negresco rum;Unbranded;15000;13;Yes;Yes;Yes;11193
+130201880;cerutu;crt Negresco clove;Unbranded;15000;7;Yes;Yes;Yes;11167
+130768756;tembakau original;ploso super 50k II;Unbranded;13500;0;No;No;Yes;5250
+130768757;tembakau original;ploso super 50k II;Unbranded;26000;0;No;No;Yes;10500
+130768758;tembakau original;ploso super 50k II;Unbranded;50000;0;No;No;Yes;21000
+130779564;cengkeh;manado super;Unbranded;4000;0;No;No;Yes;2000
+130779565;cengkeh;manado super;Unbranded;18000;0;No;No;Yes;10000
+130779566;cengkeh;manado super;Unbranded;35000;0;No;No;Yes;20000
+130994181;rokok mix ;aroma slim 16;Unbranded;14000;11;Yes;Yes;Yes;12765
+131325264;alat linting;alat linting gizeh 70mm;Unbranded;12000;4;Yes;Yes;Yes;5800
+131325297;accessories;pemotong cerutu knifezer;Unbranded;15000;3;Yes;Yes;Yes;5900
+131325312;accessories;kotak rokok alumunium motif;Unbranded;15000;6;Yes;Yes;Yes;3700
+131325334;accessories;kotak rokok firetric 20slot anti lembab;Unbranded;25000;6;Yes;Yes;Yes;13000
+131325353;accessories;kotak rokok firetric with lighter slot;Unbranded;35000;6;Yes;Yes;Yes;23000
+131325419;accessories;asbak portable;Unbranded;10000;3;Yes;Yes;Yes;5500
+131325486;accessories;boxin pipa rokok cangklong;Unbranded;25000;7;Yes;Yes;Yes;11900
+131325531;accessories;korek firetric outdoor;Unbranded;11000;1;Yes;Yes;Yes;5100
+131325734;accessories;kotak rokok firetric persegi black;Unbranded;30000;8;Yes;Yes;Yes;12800
+131473350;rokok mix ;win filter 20;Unbranded;27000;2;Yes;Yes;Yes;25642
+131658702;kertas papir;buffalo biru tawar;Unbranded;1000;0;No;No;Yes;350
+131658703;kertas papir;buffalo biru tawar;Unbranded;2000;0;No;No;Yes;1050
+131688013;accessories;korek zippo;Unbranded;30000;0;Yes;Yes;Yes;13500
+131688018;accessories;minyak zippo;Unbranded;15000;3;Yes;Yes;Yes;7700
+132451938;tembakau original;paksi super;Unbranded;14000;0;No;No;Yes;6875
+132451939;tembakau original;paksi super;Unbranded;26000;0;No;No;Yes;13750
+132451940;tembakau original;paksi super;Unbranded;50000;0;No;No;Yes;27500
+132636931;rokok mix ;gunung cengkeh jambu 20;Unbranded;13000;5;Yes;Yes;Yes;10883
+132636938;rokok mix ;gunung cengkeh anggur 20;Unbranded;13000;5;Yes;Yes;Yes;10876
+132636944;rokok mix ;gunung cengkeh mangga 20;Unbranded;13000;8;Yes;Yes;Yes;10876
+132636951;rokok mix ;gunung cengkeh hijau 20;Unbranded;13000;1;Yes;Yes;Yes;10383
+132637165;accessories;pipa kayu panjang;Unbranded;20000;5;Yes;Yes;Yes;10500
+133198554;tembakau original;paksi;Unbranded;10000;0;No;No;Yes;4125
+133198555;tembakau original;paksi;Unbranded;18000;0;No;No;Yes;8250
+133198556;tembakau original;paksi;Unbranded;35000;0;No;No;Yes;16500
+133418999;rokok mix ;tenor teh;Unbranded;9000;9;Yes;Yes;Yes;7638
+133419341;alat linting;alat linting 10x110;Unbranded;15000;2;Yes;Yes;Yes;7400
+135795766;rokok mix ;senior caffe late;Unbranded;15500;20;Yes;Yes;Yes;14157
+135795769;rokok mix ;sukun Special baru 12;Unbranded;11500;5;Yes;Yes;Yes;9945
+137055720;alat linting;alat linting becak;Unbranded;30000;5;Yes;Yes;Yes;16000
+137124765;cerutu;crt negresco apel;Unbranded;15000;0;Yes;Yes;Yes;11200
+137447458;rokok herbal;st raos ngeten purun;Unbranded;14000;0;Yes;Yes;Yes;12000
+138241331;rokok mix ;bentoel;Unbranded;11000;9;Yes;No;Yes;8648
+138731826;rokok herbal;assikha gold;Unbranded;28500;15;Yes;Yes;Yes;25500
+138732159;tembakau original;lamsi cepit super;Unbranded;14000;0;No;No;Yes;7500
+138732160;tembakau original;lamsi cepit super;Unbranded;26000;0;No;No;Yes;15000
+138732161;tembakau original;lamsi cepit super;Unbranded;50000;0;No;No;Yes;30000
+139302137;rokok mix ;son mix;Unbranded;8000;-3;Yes;Yes;Yes;7000
+139506067;rokok herbal;st raos paling eco;Unbranded;35000;0;Yes;Yes;Yes;33000
+139508130;accessories;pipa kayu pendek;Unbranded;15000;28;Yes;Yes;Yes;7000
+139611550;rokok mix ;sukun executive 12;Unbranded;18000;0;Yes;Yes;Yes;16426
+140719259;cerutu;negresco mint;Unbranded;15000;10;Yes;Yes;Yes;11200
+140719263;cerutu;crt adipati club creamy;Unbranded;8000;10;Yes;Yes;Yes;5400
+140772297;rokok sampoerna;sampoerna prima;Unbranded;16000;0;No;No;No;
+140772298;rokok gudang garam;gudang garam deluxe;Unbranded;20000;0;No;No;No;
+140772299;rokok mix ;camel purple 16;Unbranded;24500;0;No;No;No;
+140819630;accessories;pipa tanduk pendek;Unbranded;15000;10;Yes;Yes;Yes;9000
